@@ -1,2 +1,2 @@
 # UI-model
-designing an simple UI design
+ https://sowmiya-mani.github.io/UI-model/
