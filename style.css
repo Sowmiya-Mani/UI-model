@@ -1,0 +1,208 @@
+body{
+    margin: 0;
+    padding: 20px;
+   
+   
+   }
+   
+   .navbar-one ul{
+       list-style: none;
+       padding: 0;
+       margin: 0;
+       text-align: left;
+   }
+   .navbar-one li{
+       display: inline-block;
+       border-left: 1px solid;
+   
+   }
+   .navbar-one a{
+       text-decoration: none;
+       color: black; 
+       width: 100px;
+       display: block;
+       padding: 10px 10px;
+       font-size: 10px;
+       text-transform: uppercase;
+       font-weight: bold;
+   }
+   .navbar-one a:hover{
+       background:black ;
+       color: azure;
+   }
+
+    .heading h1{
+    
+       font-size: 40px;
+       color: black;
+       font-family:Verdana, Geneva, Tahoma, sans-serif;
+      
+    }
+   
+   .heading p{
+   color: gray;
+   }
+   .hd2{
+       text-align: center;
+       justify-content: space-between;
+       margin-left: 500px 100px;
+       line-height: 1.5em;
+       padding: 10px 5px;
+       background-color: rgb(147, 136, 136);
+       color: white;
+       width: 70%;
+       
+   }
+   .hd1{
+       display: flex;
+   }
+   .heading{
+       line-height: 0.25em;
+       width: 250px;
+   }
+   hr{
+       border: 3px solid rgb(8, 7, 7);
+       width: 87%;
+       margin-left: 0px;
+   }
+   .image1{
+       margin: 0px;
+       background: url(star.jpg);
+       width: 100%;
+       height: 350px;
+       background-repeat: no-repeat;
+       background-size: cover;
+       border-radius: 3px;
+       
+   }
+   .image1 p{
+       margin: 0px;
+       color: aliceblue;
+       font-size: 30px;
+       font-family: serif;
+       font-weight: lighter;
+
+   
+   }
+   
+   .downnav ul{
+       list-style: none;
+       padding: 0;
+       margin: 0;
+       text-align: right;
+       margin-top: 250px ;
+   }
+   .downnav li{
+       display: inline-block;
+       border-left: 1px solid;
+   
+   }
+   .downnav a{
+       text-decoration: none;
+       color: white; 
+       width: 100px;
+       display: bottom;
+       padding: 20px 10px;
+       font-size: 10px;
+       text-transform: uppercase;
+       font-weight: bold;
+       background-color: black;
+       margin-bottom: right;
+   }
+   .downnav a:hover{
+       background-color: red;
+   
+   }
+   .line{
+        border: 3px solid black;
+        width: 75%;
+
+   }
+   
+   .line1{
+       border: 1px solid black;
+       width: 75%;
+   }
+   .lh{
+       border: 1px solid black;
+       width: 100%; 
+   }
+   .lh1{
+    border: 1px solid black;
+    width: 87%;
+   }
+   
+   .bgimg{
+   margin-top: 25px;
+   line-height: 0.5em;
+   text-align: left;
+   width: 50%;
+   border-right: 1px rgb(73, 72, 72) solid;
+   }
+   
+   .images2{
+   background-image: url(ceaser.jpg) ;
+   margin: top 250px;
+   height: 200px;
+   width: 330px;
+   padding: 10px;
+   background-repeat: no-repeat;
+   background-size: cover;
+   text-align: center;
+   }
+   .images1{
+       display: flex;
+       justify-content: space-between;
+       width: 100%;
+   }
+   .story{
+       margin-top: 30px;
+       width: 350px;
+       margin-left: 50px;
+   }
+   .story p{
+    font-size: 20px;
+    font-weight: bold;
+   }
+   main{
+       display: flex;
+   }
+   input{
+    font-size: 30px;
+    margin: 1px;
+    }
+    .linew{
+        width: 100%;
+        margin-left: 0px;
+        
+    }
+    span{
+        color: red;
+        
+    }
+    .post h3{
+        font-size:10px;
+        padding: 3px;
+    }
+    .post p{
+        font-size: 20px;
+        margin: 1px;
+    
+    }
+    .full{
+        display: flex;
+        margin: 0px;
+    
+    }
+  .rightcontent{
+    margin-right: 200px;
+    margin-left: 30px;
+    width: 100%;
+    margin-bottom: 400px;
+  }
+  .content{
+    width:700px;
+  }
+
+
+  
